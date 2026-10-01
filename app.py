@@ -5,7 +5,7 @@ import uuid
 
 app = FastAPI()
 
-VERSION = "v2"
+VERSION = "v1"
 
 
 @app.get("/")
